@@ -1,7 +1,4 @@
-
 # 🖥️ Machine with One Adress
-
-
 
 
 ## 👨‍🎓 Authors
