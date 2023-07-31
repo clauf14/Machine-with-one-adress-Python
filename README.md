@@ -44,7 +44,12 @@ This project attempts to simulate as closely as possible the operation of a logi
 🤩And the the result appears immediately right next to **"Valoarea numarului"** and it is **120**, because **5! = 1 * 2 * 3 * 4 * 5** . Below the result we have the operations and the addresses where these operations were performed to solve the **"Factorial"** option. In **Memory[number]**, number is the adress of the operation.
 
 
-## Documentation
+## ✔️ Features
+
+- Easy to use and suggestive interface
+- Quick calculation  
+
+## 📄 Documentation
 
 [Documentation](https://linktodocumentation)
 
