@@ -10,7 +10,7 @@
 
 
 ## ❔ What is this project about?
-This project attempts to simulate as closely as possible the operation of a logic processor by using the fundamental operation of a processor, such as reading, writing, jumping from a adress to another, etc. It is created using python and the graphic interface is made with Tkinter library. The instructions are made after this table: 
+This project attempts to simulate as closely as possible the operation of a logic processor by using the fundamental operation of a processor, such as reading, writing, jumping from a adress to another, etc. The instructions are made after this table: 
 
 ![App Screenshot](https://i.imgur.com/8Ztn5PF.jpg)
 
