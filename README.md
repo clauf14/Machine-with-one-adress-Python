@@ -5,8 +5,8 @@
 ## 👨‍🎓 Authors
 
 - [@clauf14](https://www.github.com/clauf14)
-- [@clauf14](https://www.github.com/clauf14)
-- [@clauf14](https://www.github.com/clauf14)
+- [@cristianstefan](https://www.github.com/clauf14)
+- [@alexiafloricel](https://www.github.com/clauf14)
 
 
 ## ❔ What is this project about?
