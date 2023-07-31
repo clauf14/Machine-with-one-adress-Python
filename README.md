@@ -23,7 +23,7 @@ This project attempts to simulate as closely as possible the operation of a logi
 
 ![](https://i.imgur.com/fgiwzYu.png)
 
-🖌️ So this is the design for the interface. We have a text where we can write what operation we need to do from the list below. As you can see, we have 12 different operations.
+🖌️ So this is the design for the interface. We have a Text Box where we can write what operation we need to do from the list below. As you can see, we have 12 different operations.
 
 ❕ Let's select the "Factorial" option, that does what the name says.
 
